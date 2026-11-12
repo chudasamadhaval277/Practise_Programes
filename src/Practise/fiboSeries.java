@@ -22,9 +22,9 @@ public class fiboSeries {
 			a = b;
 			b = c;
 			
+			System.out.println("Numbers");
 			
-			
-			System.out.println("Number c::::::::::::::"+c);
+			System.out.println("Number c:::::::::::::::::::::::::::"+c);
 		}
 		
 		
