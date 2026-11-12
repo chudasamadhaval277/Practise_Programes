@@ -19,6 +19,9 @@ public class findSecondLargestNumberFromArray {
 				secondHighest = num;
 			}
 		}
+
+		System.out.println("Num");
+		System.out.println("Num");
 		System.out.println("Second Highest :: "+secondHighest);
 		
 	}

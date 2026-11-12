@@ -23,6 +23,12 @@ public class fiboSeries {
 			b = c;
 			
 			System.out.println("Numbers");
+
+			System.out.println("Numbers1");
+			System.out.println("Numbers2");
+			System.out.println("Numbers3");
+			System.out.println("Numbers4");
+			System.out.println("Numbers5");
 			
 			System.out.println("Number c:::::::::::::::::::::::::::"+c);
 		}
