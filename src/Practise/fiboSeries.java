@@ -29,6 +29,9 @@ public class fiboSeries {
 			System.out.println("Numbers3");
 			System.out.println("Numbers4");
 			System.out.println("Numbers5");
+
+			System.out.println("Numbers6");
+			System.out.println("Numbers7");
 			
 			System.out.println("Number c:::::::::::::::::::::::::::"+c);
 		}
