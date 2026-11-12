@@ -17,7 +17,7 @@ public class findTheCapitalLetterFromString {
 				System.out.println("Capital Letter from String::"+ch);
 			}
 		}
-
+		System.out.println("demo 1");
 	}
 
 }

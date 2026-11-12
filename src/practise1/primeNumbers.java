@@ -27,7 +27,7 @@ public class primeNumbers {
 				System.out.println("Prime Numbers :: "+i);
 			}
 		}
-		
+		System.out.println("demo 1");
 		
 	}
 

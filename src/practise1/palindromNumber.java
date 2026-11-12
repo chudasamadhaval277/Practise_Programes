@@ -21,6 +21,8 @@ public class palindromNumber {
 			System.out.println("Palindrom");
 		}
 
+		System.out.println("demo 1");
+
 	}
 
 }

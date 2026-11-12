@@ -17,6 +17,7 @@ public class findTheLargestNumberOfArray {
 			}
 		}
 		System.out.println(max);
+		System.out.println("demo 1");
 
 	}
 

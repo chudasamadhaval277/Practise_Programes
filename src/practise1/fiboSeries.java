@@ -17,7 +17,7 @@ public class fiboSeries {
 			c = a+b;
 			
 			
-			
+			System.out.println("demo 1");
 			System.out.println("C value is ::::::::::::::::::: "+c);
 			a = b;
 			b = c;
