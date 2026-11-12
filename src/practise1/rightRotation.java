@@ -19,6 +19,7 @@ public class rightRotation {
 		}
 		
 		System.out.println(Arrays.toString(result));
+		System.out.println("demo 1");
 		
 		
 

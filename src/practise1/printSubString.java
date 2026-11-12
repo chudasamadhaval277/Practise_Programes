@@ -18,6 +18,8 @@ public class printSubString {
 			
 		}
 
+		System.out.println("demo 1");
+
 	}
 
 }

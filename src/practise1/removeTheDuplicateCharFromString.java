@@ -54,7 +54,7 @@ public class removeTheDuplicateCharFromString {
 		}
 		
 		System.out.println(sb1);
-		
+		System.out.println("demo 1");
 		
 		
 	}

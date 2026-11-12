@@ -15,6 +15,8 @@ public class swapNumbers {
 		System.out.println("A value is :::"+a);
 		System.out.println("B value is :::"+b);
 
+		System.out.println("demo 1");
+
 	}
 
 }

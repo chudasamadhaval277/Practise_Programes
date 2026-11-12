@@ -23,6 +23,7 @@ public class secondhighestNumber {
 		}
 		System.out.println(secondHighest);
 		System.out.println(highest);
+		System.out.println("demo 1");
 	}
 
 }

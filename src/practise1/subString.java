@@ -20,7 +20,7 @@ public class subString {
 			
 			//System.out.println(sb);
 		}
-
+		System.out.println("demo 1");
 		
 	}
 
